@@ -8,7 +8,7 @@
 
 
 Human Resource Management System is a combination of systems and processes that connect human resource management and information technology through HRMS software.
-
+my edit here
 Each module performs a separate function within the HRMS that helps with information gathering or tracking. HRMS modules can assist with:
 1. Employee Management
 2. Leave Management
